@@ -1,0 +1,144 @@
+﻿{
+    "EFFECTS": [
+        {
+            "name": "GX50",
+            "imgUrl": "E:/50.png",
+            "Published": "2019-12-06",
+            "Size": "10.2M",
+            "Version": "1.0.0",
+            "Product Introduction EN": "None",
+            "Product Introduction CN": "无",
+            "Upgrade Details EN": "None",
+            "Upgrade Details CN": "无",
+            "More Info EN": "http://www.mooeraudio.com",
+            "More Info CN": "http://www.mooeraudio.com"
+        },
+        {
+            "name": "GE150",
+            "imgUrl": "E:/150.png",
+            "Published": "2019-07-03",
+            "Size": "23.2M",
+            "Version": "1.0.0",
+            "Product Introduction EN": "GE150 Speaker Simulator is a tool for the beginners in the \"GE\" family of Magic. Although the GE150 has been simplified in terms of nailing and volume, it has fully inherited the widely recognized GE200 in terms of tone and function. It also has the core of using the Nordic Response (NR) technology. Pre-stage simulation, official factory equipped with 26 cabinet simulation, support for loading third-party impulse response sampling (Impulse Response, referred to as \"IR\"), a total of 151 effect type effect modules, 50 beat type drum machines and 80 seconds Loop recording and other functions.",
+            "Product Introduction CN": "GE150音箱模拟效果器是魔耳\"GE\"家族系列中专门针对初级用户打造的练习、演出利器。GE150虽然在踩钉以及体积上做了简化，但在音色与功能上面全面承袭了广受市场认可的GE200，同样拥有采用魔耳智能逆向建模（Nonlinear Response，简称\"NR\"）技术为核心的前级模拟、官方出厂配备26个箱体模拟，支持加载第三方的脉冲响应采样（Impulse Response，简称\"IR\"），共计151种效果类型的效果模块、50种节拍类型的鼓机与80秒的循环录音等功能等。",
+            "Upgrade Details EN": "None",
+            "Upgrade Details CN": "无",
+            "More Info EN": "https://mp.weixin.qq.com/s?__biz=MzAxNDM3NzE3Ng==&mid=2651106970&idx=1&sn=bd29bde7fd01f6f8b659bbc486e07e36&chksm=8064472db713ce3b55f3f5df102d21ef3088fce66d9fa17ce6be33df6dafe3d21148fb1deef6&token=2034545795&lang=zh_CN#rd",
+            "More Info CN": "https://mp.weixin.qq.com/s?__biz=MzAxNDM3NzE3Ng==&mid=2651106970&idx=1&sn=bd29bde7fd01f6f8b659bbc486e07e36&chksm=8064472db713ce3b55f3f5df102d21ef3088fce66d9fa17ce6be33df6dafe3d21148fb1deef6&token=2034545795&lang=zh_CN#rd"
+        },
+        {
+            "name": "GE200",
+            "imgUrl": "E:/200.png",
+            "Published": "2018-09-21",
+            "Size": "4.17M",
+            "Version": "2.0.0",
+            "Product Introduction EN": "MOOER has unleashed a brand new multi effects processor which delivers unparalleled amp modelling in its price range and an amazing array of effects and features which will surely impress even the most disconcerting of tone chasers. The GE200 has been designed from the ground up to be the musicians perfect partner. Be it live on-stage, in the recording studio or back home in the practice den.",
+            "Product Introduction CN": "GE200音箱模拟效果器是魔耳乐器2017使用革新性的技术所打造的一款以音箱模拟为核心的中端旗舰综合效果器。 在外观上采用前卫的工业外观设计，经过CNC高精度数控机床加工、一体成型的金属结构、超薄机身以及3.5寸TFT彩屏显示，不仅拥有绝佳的颜值，还能耐摔防撞防汗蚀。",
+            "Upgrade Details EN": "1. Improved sound quality with delay & reverb effects.\r\n2. \"Trail On\" function for delay & reverb effects.\r\n3. Brand-new Mono Pitch Shift effect.\r\n4. BACK UP function to import/export all your presets with one click.\r\n5. Changeable LOOPER position with PRE/POST looper mode.\r\n6. Improved tuning range from 430Hz-450Hz.",
+            "Upgrade Details CN": "1、全面升级了混响和调制效果的品质\r\n2、支持延迟& 混响效果尾音保持功能（预设间的保持需满足选择相同的延迟混响效果类型）\r\n3、升级了部分前级模拟效果\r\n4、增加高稳定度和精度的单弦移调效果\r\n5、支持使用MOOER STUDIO软件一键备份和恢复所有数据\r\n6、增加LOOPER的前置/后置模式可调\r\n7、修改校音功能基准频率音范围为430Hz~450Hz",
+            "More Info EN": "https://mp.weixin.qq.com/s?__biz=MzAxNDM3NzE3Ng==&mid=2651104192&idx=1&sn=09aafb2c9aab9412f2fadcab5816a2dd&chksm=80644a77b713c361b3a5a65b054733f17dc8570062fc7a2586e1d243ac9f068e482fe6d2fce4&token=988902103&lang=zh_CN#rd",
+            "More Info CN": "https://mp.weixin.qq.com/s?__biz=MzAxNDM3NzE3Ng==&mid=2651104192&idx=1&sn=09aafb2c9aab9412f2fadcab5816a2dd&chksm=80644a77b713c361b3a5a65b054733f17dc8570062fc7a2586e1d243ac9f068e482fe6d2fce4&token=988902103&lang=zh_CN#rd"
+        },
+        {
+            "name": "GE250",
+            "imgUrl": "E:/250.png",
+            "Published": "2019-12-06",
+            "Size": "10.2M",
+            "Version": "1.0.0",
+            "Product Introduction EN": "None",
+            "Product Introduction CN": "无",
+            "Upgrade Details EN": "None",
+            "Upgrade Details CN": "无",
+            "More Info EN": "http://www.mooeraudio.com",
+            "More Info CN": "http://www.mooeraudio.com"
+        },
+        {
+            "name": "GE300",
+            "imgUrl": "E:/300.png",
+            "Published": "2019-03-28",
+            "Size": "25.5M",
+            "Version": "1.1.1",
+            "Product Introduction EN": "The GE300 from MOOER is the flagship multi-effect instrument processor. By combining the well-received Micro Preamp series, TONE CAPTURE instrument matching technology, tri-voice polyphonic synthesizer module, and a wide-range of guitar effects and tools, the GE300 embellishes every single motive for creation from your mind with nuanced details.",
+            "Product Introduction CN": "魔耳 GE300吉他音色处理器是魔耳乐器专为吉他手们打造的涵盖了音箱建模、数字合成、综合效果器为一体并针对专业级别演出而生的旗舰款产品。",
+            "Upgrade Details EN": "1.TONE CAPTURE files created in V1.1.0 cannot be supported in V1.2.0. This update will clear up all the TONE CAPTURE files in V1.1.0.\r\n2.For V1.1.1, we recommend users backup your TONE CAPTURE files before the update. TONE CAPTURE files created in V1.1.1 will be accepted by the V1.2.0.\r\n3.The update will not affect users’ presets, 3rd party IRs. However, we recommend you to back up your presets and IRs in case accidents happen.",
+            "Upgrade Details CN": "1、尾音保持，在如下延迟和混响类型中增加了Trail（尾音保持）参数，开启后支持执行开关模块的延迟、混响的尾音保持；在2个使用了相同延迟、混响类型预设间切换的尾音保持功能。\r\n2、CTRL功能踩钉灯半亮/全亮显示，增加了部分CTRL功能踩钉灯的 半亮/全亮 显示，利于现场使用时的状态区分。\r\n3、优化踩钉延迟/断音，优化了踩钉执行模块开关及切换预设的延迟/断音问题\r\n4、上位机优化功能，上位机增加了 导入Tone capture预设，且Tone Capture储存位置与设备内已先存在的数据位置冲突时的提示功能。（当导入文件的Tone Capture位置发生冲突时，我们建议使用单个导入来导入带有ToneCapture数据的预设，您可以选择“覆盖”或“另存为”选项来管理您的Tone Capture数据）\r\n5、修复了部分显示bug",
+            "More Info EN": "https://mp.weixin.qq.com/s?__biz=MzAxNDM3NzE3Ng==&mid=2651107016&idx=1&sn=4d544b459bc63fa4490f43f96b157b75&chksm=8064477fb713ce69a193f3c647795a66d7e511e7bcc8de4d8e4efae7e96440cc67418bcc7851&token=833524209&lang=zh_CN#rd",
+            "More Info CN": "https://mp.weixin.qq.com/s?__biz=MzAxNDM3NzE3Ng==&mid=2651107016&idx=1&sn=4d544b459bc63fa4490f43f96b157b75&chksm=8064477fb713ce69a193f3c647795a66d7e511e7bcc8de4d8e4efae7e96440cc67418bcc7851&token=833524209&lang=zh_CN#rd"
+        },
+        {
+            "name": "GE300 Lite",
+            "imgUrl": "E:/300lite.png",
+            "Published": "2019-12-06",
+            "Size": "10.2M",
+            "Version": "1.0.0",
+            "Product Introduction EN": "None",
+            "Product Introduction CN": "无",
+            "Upgrade Details EN": "None",
+            "Upgrade Details CN": "无",
+            "More Info EN": "http://www.mooeraudio.com",
+            "More Info CN": "http://www.mooeraudio.com"
+        },
+        {
+            "name": "PREAMP LIVE",
+            "imgUrl": "E:/PREAMP LIVE.png",
+            "Published": "2018-09-21",
+            "Size": "5.25M",
+            "Version": "2.0.0",
+            "Product Introduction EN": "PREAMP LIVE has been designed from the ground up to be the ultimate digital preamp modeller for use in a live situation. Every control feature has been carefully thought out to be intuitive and provide the best experience for live performance.",
+            "Product Introduction CN": "2017年，基于魔耳独创的智能逆向建模技术（Nonlinear Response，简称\"NR\"）打造的数字迷你前级（MICRO PREAMP）系列一经上市，便凭其极高的音色还原度、迷你的尺寸迅速征服了众多职业乐手，成为了他们巡演路上必不可少的音色保障。因此，在全球对我们\"NR\"技术下采集的前级音色的认可下，我们打造出了一款更具有专业形态的多通道数字前级效果器——PREAMP LIVE",
+            "Upgrade Details EN": "1. So many models! 52 to be exact. This includes 47 electric guitar amps, 3 acoustic guitar emulators, and 2 bass amp models!\r\n2. Changeable boost. The pre-boost and post-boost models can now be changed with 13 pre-boost models and 3 post-boost models to choose from.\r\n3. More power amp models!\r\n4. Backup function. The new Backup feature allows you to pack all of your presets together into one single file. The impulse response (IR) files are also included in the backup file. This means that when you are backing up, you do not need to save preset files and impulse response files separately.",
+            "Upgrade Details CN": "1、增加了52个前级、包括3个原声前级以及2个贝斯前级。\r\n2、后级模拟数量增加到了10个。\r\n3、开放了BOOST模块，分别是13个前置（PRE）和3个后置(POST）的激励供大家选择。\r\n4、增加了一键备份功能，从2.0.0版本开始就可以享受一键备份了（包括第三方IR的保存）。\r\n5、修正一些MIDI指令的的BUG",
+            "More Info EN": "http://cn.mooeraudio.com/companyfile/PREAMP-LIVE%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83-29.html",
+            "More Info CN": "http://cn.mooeraudio.com/companyfile/PREAMP-LIVE%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83-29.html"
+        },
+        {
+            "name": "RADAR",
+            "imgUrl": "E:/radar.png",
+            "Published": "2018-09-21",
+            "Size": "1.59M",
+            "Version": "1.2.0",
+            "Product Introduction EN": "The MOOER RADAR is a full-featured professional speaker simulator which can be a permanent resident at the end of your pedalboard. Not only does it carry 30 cab models but it also has optional microphone and power amp simulation. Ideal for recording or hooked up to your favourite headphones for practice. The RADAR will transform your pedalboard into a complete guitar rig.",
+            "Product Introduction CN": "魔耳Radar箱体模拟是一款功能全面的专业箱体模拟产品。搭载了30款出色的IR箱体模型，提供多款经典的话筒以及后级模型选择和独立均衡参数调节并清晰显示在在1.77寸的高清彩屏上 。除此之外，我们还提供了上位机软件供用户进行音色编辑以及加载导入第三方的IR数据，打造专属的箱体音色，不在话下！",
+            "Upgrade Details EN": "1. Power off Radar.\r\n2. Press and hold the red knot.\r\n3. Plug in power supply to power it on, then there will be \"Loading\" on Radar's screen. Release the knot.\r\n4. Connect Radar with computer via USB cable.\r\n5. Open the 1.2 version software, click on the \"Start\". It will take a few minutes.\r\n6. Click on \"Done\" to finish it.\r\n7. Then the Radar will be rebooted. After Radar booted successfully, then you could open the software on your desktop.",
+            "Upgrade Details CN": "修正1.1.0版本由于增加采样长度至1024点带来的延迟问题，并将延迟控制在2ms以内",
+            "More Info EN": "https://mp.weixin.qq.com/s/QyEXzrDMxgJe1VmKSnnvGA",
+            "More Info CN": "https://mp.weixin.qq.com/s/QyEXzrDMxgJe1VmKSnnvGA"
+        }
+    ],
+    "AMPS": [
+        {
+            "name": "GE150",
+            "imgUrl": "E:/150.png",
+            "Published": "2019-07-03",
+            "Size": "23.2M",
+            "Version": "1.0.0",
+            "Product Introduction EN": "GE150 Speaker Simulator is a tool for the beginners in the \"GE\" family of Magic. Although the GE150 has been simplified in terms of nailing and volume, it has fully inherited the widely recognized GE200 in terms of tone and function. It also has the core of using the Nordic Response (NR) technology. Pre-stage simulation, official factory equipped with 26 cabinet simulation, support for loading third-party impulse response sampling (Impulse Response, referred to as \"IR\"), a total of 151 effect type effect modules, 50 beat type drum machines and 80 seconds Loop recording and other functions.",
+            "Product Introduction CN": "GE150音箱模拟效果器是魔耳\"GE\"家族系列中专门针对初级用户打造的练习、演出利器。GE150虽然在踩钉以及体积上做了简化，但在音色与功能上面全面承袭了广受市场认可的GE200，同样拥有采用魔耳智能逆向建模（Nonlinear Response，简称\"NR\"）技术为核心的前级模拟、官方出厂配备26个箱体模拟，支持加载第三方的脉冲响应采样（Impulse Response，简称\"IR\"），共计151种效果类型的效果模块、50种节拍类型的鼓机与80秒的循环录音等功能等。",
+            "Upgrade Details EN": "None",
+            "Upgrade Details CN": "无",
+            "More Info EN": "https://mp.weixin.qq.com/s?__biz=MzAxNDM3NzE3Ng==&mid=2651106970&idx=1&sn=bd29bde7fd01f6f8b659bbc486e07e36&chksm=8064472db713ce3b55f3f5df102d21ef3088fce66d9fa17ce6be33df6dafe3d21148fb1deef6&token=2034545795&lang=zh_CN#rd",
+            "More Info CN": "https://mp.weixin.qq.com/s?__biz=MzAxNDM3NzE3Ng==&mid=2651106970&idx=1&sn=bd29bde7fd01f6f8b659bbc486e07e36&chksm=8064472db713ce3b55f3f5df102d21ef3088fce66d9fa17ce6be33df6dafe3d21148fb1deef6&token=2034545795&lang=zh_CN#rd"
+        },
+        {
+            "name": "GE300",
+            "imgUrl": "E:/300.png",
+            "Published": "2019-03-28",
+            "Size": "25.5M",
+            "Version": "1.1.1",
+            "Product Introduction EN": "The GE300 from MOOER is the flagship multi-effect instrument processor. By combining the well-received Micro Preamp series, TONE CAPTURE instrument matching technology, tri-voice polyphonic synthesizer module, and a wide-range of guitar effects and tools, the GE300 embellishes every single motive for creation from your mind with nuanced details.",
+            "Product Introduction CN": "魔耳 GE300吉他音色处理器是魔耳乐器专为吉他手们打造的涵盖了音箱建模、数字合成、综合效果器为一体并针对专业级别演出而生的旗舰款产品。",
+            "Upgrade Details EN": "1.TONE CAPTURE files created in V1.1.0 cannot be supported in V1.2.0. This update will clear up all the TONE CAPTURE files in V1.1.0.\r\n2.For V1.1.1, we recommend users backup your TONE CAPTURE files before the update. TONE CAPTURE files created in V1.1.1 will be accepted by the V1.2.0.\r\n3.The update will not affect users’ presets, 3rd party IRs. However, we recommend you to back up your presets and IRs in case accidents happen.",
+            "Upgrade Details CN": "1、尾音保持，在如下延迟和混响类型中增加了Trail（尾音保持）参数，开启后支持执行开关模块的延迟、混响的尾音保持；在2个使用了相同延迟、混响类型预设间切换的尾音保持功能。\r\n2、CTRL功能踩钉灯半亮/全亮显示，增加了部分CTRL功能踩钉灯的 半亮/全亮 显示，利于现场使用时的状态区分。\r\n3、优化踩钉延迟/断音，优化了踩钉执行模块开关及切换预设的延迟/断音问题\r\n4、上位机优化功能，上位机增加了 导入Tone capture预设，且Tone Capture储存位置与设备内已先存在的数据位置冲突时的提示功能。（当导入文件的Tone Capture位置发生冲突时，我们建议使用单个导入来导入带有ToneCapture数据的预设，您可以选择“覆盖”或“另存为”选项来管理您的Tone Capture数据）\r\n5、修复了部分显示bug",
+            "More Info EN": "https://mp.weixin.qq.com/s?__biz=MzAxNDM3NzE3Ng==&mid=2651107016&idx=1&sn=4d544b459bc63fa4490f43f96b157b75&chksm=8064477fb713ce69a193f3c647795a66d7e511e7bcc8de4d8e4efae7e96440cc67418bcc7851&token=833524209&lang=zh_CN#rd",
+            "More Info CN": "https://mp.weixin.qq.com/s?__biz=MzAxNDM3NzE3Ng==&mid=2651107016&idx=1&sn=4d544b459bc63fa4490f43f96b157b75&chksm=8064477fb713ce69a193f3c647795a66d7e511e7bcc8de4d8e4efae7e96440cc67418bcc7851&token=833524209&lang=zh_CN#rd"
+        }
+    ],
+    "link": {
+        "official": "http://www.mooeraudio.com",
+        "facebook": "https://www.facebook.com/MooerAudio",
+        "instagram": "https://www.instagram.com/mooeraudio",
+        "youtobe": "https://www.youtube.com/user/MooerAudio",
+        "twitter": "https://twitter.com/mooeraudio",
+        "weibo": "https://weibo.com/welcome2mooer?is_hot=1"
+    }
+}
