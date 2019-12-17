@@ -3,6 +3,7 @@
         {
             "name": "GX50",
             "imgUrl": "https://raw.githubusercontent.com/BrokenRain/MooerStudio/master/img/GX50.png",
+            "imgMD5": "15a87b32a6c1aebcfb8233ecf4ea509e",
             "Published": "2019-12-06",
             "Size": "10.2M",
             "Version": "1.0.0",
@@ -16,6 +17,7 @@
         {
             "name": "GE150",
             "imgUrl": "https://raw.githubusercontent.com/BrokenRain/MooerStudio/master/img/GE150.png",
+            "imgMD5": "cd03b908e13651c020652f3689499d69",
             "Published": "2019-07-03",
             "Size": "23.2M",
             "Version": "1.0.0",
@@ -29,6 +31,7 @@
         {
             "name": "GE200",
             "imgUrl": "https://raw.githubusercontent.com/BrokenRain/MooerStudio/master/img/GE200.png",
+            "imgMD5": "41f1f064945f105a39ee487c888dc755",
             "Published": "2018-09-21",
             "Size": "4.17M",
             "Version": "2.0.0",
@@ -42,6 +45,7 @@
         {
             "name": "GE250",
             "imgUrl": "https://raw.githubusercontent.com/BrokenRain/MooerStudio/master/img/GE250.png",
+            "imgMD5": "fc543320e09c783e3a33507ba4c17c3a",
             "Published": "2019-12-06",
             "Size": "10.2M",
             "Version": "1.0.0",
@@ -55,6 +59,7 @@
         {
             "name": "GE300",
             "imgUrl": "https://raw.githubusercontent.com/BrokenRain/MooerStudio/master/img/GE300.png",
+            "imgMD5": "00434cd4f7f6da3394ac9ceccd78b5ee",
             "Published": "2019-03-28",
             "Size": "25.5M",
             "Version": "1.1.1",
@@ -68,6 +73,7 @@
         {
             "name": "GE300 Lite",
             "imgUrl": "https://raw.githubusercontent.com/BrokenRain/MooerStudio/master/img/GE300%20Lite.png",
+            "imgMD5": "bd124fa7e0e84b4d3d62ce772f474ae5",
             "Published": "2019-12-06",
             "Size": "10.2M",
             "Version": "1.0.0",
@@ -81,6 +87,7 @@
         {
             "name": "PREAMP LIVE",
             "imgUrl": "https://raw.githubusercontent.com/BrokenRain/MooerStudio/master/img/PREAMP%20LIVE.png",
+            "imgMD5": "238ccaf2d3cc3c0a5c3471c4d606daf5",
             "Published": "2018-09-21",
             "Size": "5.25M",
             "Version": "2.0.0",
@@ -94,6 +101,7 @@
         {
             "name": "RADAR",
             "imgUrl": "https://raw.githubusercontent.com/BrokenRain/MooerStudio/master/img/RADAR.png",
+            "imgMD5": "650dafceddd7ce76013ba403f54c3fd1",
             "Published": "2018-09-21",
             "Size": "1.59M",
             "Version": "1.2.0",
@@ -108,7 +116,8 @@
     "AMPS": [
         {
             "name": "GE150",
-            "imgUrl": "E:/150.png",
+            "imgUrl": "https://raw.githubusercontent.com/BrokenRain/MooerStudio/master/img/GE150.png",
+            "imgMD5": "cd03b908e13651c020652f3689499d69",
             "Published": "2019-07-03",
             "Size": "23.2M",
             "Version": "1.0.0",
@@ -121,7 +130,8 @@
         },
         {
             "name": "GE300",
-            "imgUrl": "E:/300.png",
+            "imgUrl": "https://raw.githubusercontent.com/BrokenRain/MooerStudio/master/img/GE300.png",
+            "imgMD5": "00434cd4f7f6da3394ac9ceccd78b5ee",
             "Published": "2019-03-28",
             "Size": "25.5M",
             "Version": "1.1.1",
