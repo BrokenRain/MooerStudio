@@ -13,11 +13,11 @@
             "Upgrade Details CN": "无",
             "More Info EN": "http://www.mooeraudio.com",
             "More Info CN": "http://www.mooeraudio.com",
-            "AppUrl": "https://raw.githubusercontent.com/BrokenRain/MooerStudio/master/APP/GX50.rar"
+            "AppUrl": "https://raw.githubusercontent.com/BrokenRain/MooerStudio/master/APP/GX50.zip"
         },
         {
             "name": "GE150",
-            "AppUrl": "https://raw.githubusercontent.com/BrokenRain/MooerStudio/master/APP/GE150.rar",
+            "AppUrl": "https://raw.githubusercontent.com/BrokenRain/MooerStudio/master/APP/GE150.zip",
             "imgUrl": "https://raw.githubusercontent.com/BrokenRain/MooerStudio/master/img/GE150.png",
             "imgMD5": "cd03b908e13651c020652f3689499d69",
             "Published": "2019-07-03",
@@ -32,7 +32,7 @@
         },
         {
             "name": "GE200",
-            "AppUrl": "https://raw.githubusercontent.com/BrokenRain/MooerStudio/master/APP/GE200.rar",
+            "AppUrl": "https://raw.githubusercontent.com/BrokenRain/MooerStudio/master/APP/GE200.zip",
             "imgUrl": "https://raw.githubusercontent.com/BrokenRain/MooerStudio/master/img/GE200.png",
             "imgMD5": "41f1f064945f105a39ee487c888dc755",
             "Published": "2018-09-21",
@@ -47,7 +47,7 @@
         },
         {
             "name": "GE250",
-            "AppUrl": "https://raw.githubusercontent.com/BrokenRain/MooerStudio/master/APP/GE250.rar",
+            "AppUrl": "https://raw.githubusercontent.com/BrokenRain/MooerStudio/master/APP/GE250.zip",
             "imgUrl": "https://raw.githubusercontent.com/BrokenRain/MooerStudio/master/img/GE250.png",
             "imgMD5": "fc543320e09c783e3a33507ba4c17c3a",
             "Published": "2019-12-06",
@@ -62,7 +62,7 @@
         },
         {
             "name": "GE300",
-            "AppUrl": "https://raw.githubusercontent.com/BrokenRain/MooerStudio/master/APP/GE300.rar",
+            "AppUrl": "https://raw.githubusercontent.com/BrokenRain/MooerStudio/master/APP/GE300.zip",
             "imgUrl": "https://raw.githubusercontent.com/BrokenRain/MooerStudio/master/img/GE300.png",
             "imgMD5": "00434cd4f7f6da3394ac9ceccd78b5ee",
             "Published": "2019-03-28",
@@ -77,7 +77,7 @@
         },
         {
             "name": "GE300 Lite",
-            "AppUrl": "https://raw.githubusercontent.com/BrokenRain/MooerStudio/master/APP/GE300%20Lite.rar",
+            "AppUrl": "https://raw.githubusercontent.com/BrokenRain/MooerStudio/master/APP/GE300%20Lite.zip",
             "imgUrl": "https://raw.githubusercontent.com/BrokenRain/MooerStudio/master/img/GE300%20Lite.png",
             "imgMD5": "bd124fa7e0e84b4d3d62ce772f474ae5",
             "Published": "2019-12-06",
@@ -92,7 +92,7 @@
         },
         {
             "name": "PREAMP LIVE",
-            "AppUrl": "https://raw.githubusercontent.com/BrokenRain/MooerStudio/master/APP/PREAMP%20LIVE.rar",
+            "AppUrl": "https://raw.githubusercontent.com/BrokenRain/MooerStudio/master/APP/PREAMP%20LIVE.zip",
             "imgUrl": "https://raw.githubusercontent.com/BrokenRain/MooerStudio/master/img/PREAMP%20LIVE.png",
             "imgMD5": "238ccaf2d3cc3c0a5c3471c4d606daf5",
             "Published": "2018-09-21",
@@ -107,7 +107,7 @@
         },
         {
             "name": "RADAR",
-            "AppUrl": "https://raw.githubusercontent.com/BrokenRain/MooerStudio/master/APP/RADAR.rar",
+            "AppUrl": "https://raw.githubusercontent.com/BrokenRain/MooerStudio/master/APP/RADAR.zip",
             "imgUrl": "https://raw.githubusercontent.com/BrokenRain/MooerStudio/master/img/RADAR.png",
             "imgMD5": "650dafceddd7ce76013ba403f54c3fd1",
             "Published": "2018-09-21",
