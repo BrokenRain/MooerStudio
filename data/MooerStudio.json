@@ -1,21 +1,6 @@
 ﻿{
     "EFFECTS": [
         {
-            "name": "GX50",
-            "imgUrl": "https://raw.githubusercontent.com/BrokenRain/MooerStudio/master/img/GX50.png",
-            "imgMD5": "15a87b32a6c1aebcfb8233ecf4ea509e",
-            "Published": "2019-12-06",
-            "Size": "10.2M",
-            "Version": "1.0.0",
-            "Product Introduction EN": "None",
-            "Product Introduction CN": "无",
-            "Upgrade Details EN": "None",
-            "Upgrade Details CN": "无",
-            "More Info EN": "http://www.mooeraudio.com",
-            "More Info CN": "http://www.mooeraudio.com",
-            "AppUrl": "https://raw.githubusercontent.com/BrokenRain/MooerStudio/master/APP/GX50.zip"
-        },
-        {
             "name": "GE150",
             "AppUrl": "https://raw.githubusercontent.com/BrokenRain/MooerStudio/master/APP/GE150.zip",
             "imgUrl": "https://raw.githubusercontent.com/BrokenRain/MooerStudio/master/img/GE150.png",
