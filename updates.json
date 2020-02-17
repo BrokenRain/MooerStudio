@@ -1,0 +1,44 @@
+﻿{
+    "Updates": {
+        "Windows": {
+            "Platform": "windows",
+            "OpenUrl": "",
+            "LatestVersion": "2.0.0",
+            "DownloadUrl": "https://raw.githubusercontent.com/BrokenRain/MooerStudio/master/APP/GE150.zip",
+            "ChangeLog": "测试一下改了啥",
+            "Mandatory": false
+        },
+        "Osx": {
+            "Platform": "",
+            "OpenUrl": "",
+            "LatestVersion": "",
+            "DownloadUrl": "",
+            "ChangeLog": "",
+            "Mandatory": false
+        },
+        "Linux": {
+            "Platform": "",
+            "OpenUrl": "",
+            "LatestVersion": "",
+            "DownloadUrl": "",
+            "ChangeLog": "",
+            "Mandatory": false
+        },
+        "Ios": {
+            "Platform": "",
+            "OpenUrl": "",
+            "LatestVersion": "",
+            "DownloadUrl": "",
+            "ChangeLog": "",
+            "Mandatory": false
+        },
+        "Android": {
+            "Platform": "",
+            "OpenUrl": "",
+            "LatestVersion": "",
+            "DownloadUrl": "",
+            "ChangeLog": "",
+            "Mandatory": false
+        }
+    }
+}
